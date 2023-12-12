@@ -1,4 +1,4 @@
-# Three.js Journey
+# Inspired by Three.js Journey lesson
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
